@@ -1,1 +1,1 @@
-<?php include ['action'] . '.php';
+<?php include $_GET['action'] . '.php';
